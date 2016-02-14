@@ -4,6 +4,10 @@
 
 [![Build Status](https://travis-ci.org/brianjking/ilovepi.svg?branch=master)](https://travis-ci.org/brianjking/ilovepi)
 
+## Wiki
+* https://github.com/brianjking/ilovepi/wiki
+
+
 ## Description
 
 Purpose is...
